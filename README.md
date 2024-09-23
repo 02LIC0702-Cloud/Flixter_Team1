@@ -1,2 +1,8 @@
-# Flixter_Team1
-Evaluacion Parcial 1 
+# Flixter
+## *Team 1:*
+#### Esaú Cárdenas, Nicolás Flores, Andrés Hernández, Eliseo Sosa, Esaú Lozano.
+
+
+## Test 1st Partial.
+
+
